@@ -28,7 +28,7 @@ export FLASK_ENV=development
 export FLASK_APP=api
 
 # Para inicializar a aplicação
-python run.py
+python3 run.py
 
 pip3 install pytest
 

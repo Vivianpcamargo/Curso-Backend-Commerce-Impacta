@@ -28,6 +28,8 @@ export FLASK_ENV=development
 export FLASK_APP=api
 
 # Para inicializar a aplicação
+pip3 install python-dotenv
+
 python3 run.py
 
 pip3 install pytest
